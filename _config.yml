@@ -78,5 +78,5 @@ theme: casual
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:kidposeidon/blog.git
-  branch: gh-pages
+  repo: git@github.com:kidposeidon/kidposeidon.github.io.git
+  branch: master
