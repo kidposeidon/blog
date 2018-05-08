@@ -1,0 +1,3 @@
+[submodule "themes/casual"]
+	path = themes/casual
+	url = https://github.com/littlewin-wang/hexo-theme-casual
