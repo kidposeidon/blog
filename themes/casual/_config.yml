@@ -4,16 +4,13 @@ menu:
   about: /about
   rss: /atom.xml
 
-banner: http://7xpot0.com1.z0.glb.clouddn.com/17-2-15/6582823-file_1487154778995_647d.jpg
-avatar: /avatar.png
-favicon: /favicon.png
-weixin: /weixin.jpg
+banner: image/background.jpg
+avatar: https://pbs.twimg.com/profile_images/605116406724706304/3zmRL_LG_400x400.jpg
+favicon: https://pbs.twimg.com/profile_images/605116406724706304/3zmRL_LG_400x400.jpg
+weixin: https://pbs.twimg.com/profile_images/605116406724706304/3zmRL_LG_400x400.jpg
 
 social:
-  github: http://github.com/littlewin-wang
-  twitter: http://twitter.com/littlewin_wang
-  weibo: http://weibo.com/fredinweibo
-  mail: mailto:littlewin.wang@gmail.com
+  github: http://github.com/kidposeidon
 
 # Comment
 # e.g uyan: 2128137
@@ -24,7 +21,7 @@ uyan: 2128137
 ga: UA-92791318-1
 
 # Copyright Infomation
-startyear: 2016
+startyear: 2018
 
 # Support hexo-renderer-scss
 node_sass:
@@ -34,4 +31,4 @@ node_sass:
   sourceComments: false
 
 # Resume related
-resume: 
+resume:

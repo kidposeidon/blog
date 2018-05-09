@@ -1,4 +1,6 @@
+---
 title: "My Fifth Blog: How Do Lithium-Ion Batteries Work?"
+date: April 13, 2018
 ---
 Like any other battery, a rechargeable lithium-ion battery is made of one or
 more power-generating compartments called cells. Each cell has

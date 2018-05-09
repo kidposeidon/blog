@@ -1,4 +1,6 @@
+---
 title: "My Third Blog: Soccer Tournament!"
+date: March 25, 2018
 ---
   Over the weekend, I was invited to play for the 05G Blue team. (This stands
   for girls born in 2005 blue team, which is the best team). I'm currently an
@@ -18,4 +20,5 @@ title: "My Third Blog: Soccer Tournament!"
 
 -Taylor
 
-Reverse-Meg video: https://www.instagram.com/p/BgzLRvonOiq/
+Reverse-Meg video:
+[![meg](/content/post-3.png)](https://www.instagram.com/p/BgzLRvonOiq/)

@@ -1,5 +1,6 @@
 ---
 title: "My Second Blog: Ski Trip!"
+date: March 23, 2018
 ---
   Me, my father, and my sister are currently planning on going on a ski trip!
 Our plan is that we are going to stay in Truckee over night and then go up

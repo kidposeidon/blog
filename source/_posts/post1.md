@@ -1,5 +1,6 @@
 ---
 title: "My First Blog: The Palo Alto Short Story Contest"
+date: March 18, 2018
 ---
   I just started working on a short story for the Palo Alto Short Story
 contest. I am updating the story on Wattpad under my editor, Wetflame. It's

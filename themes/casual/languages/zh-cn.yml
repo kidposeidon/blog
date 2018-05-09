@@ -1,17 +1,17 @@
-home: 主页
-archive: 归档
-tags: 标签
-about: 关于
-rss: 订阅
-resume: 求职
+home: Home
+archive: Archive
+tags: Tags
+about: About
+rss: RSS
+resume: Resume
 
-search: 搜索
+search: Search
 
 recent:
-  posts: 近期文章
-  comments: 近期评论
+  posts: Posts
+  comments: Comments
 
-prev_text: 前一页
-next_text: 后一页
-prev_post: 上一篇
-next_post: 下一篇
+prev_text: Previous Text
+next_text: Next Text
+prev_post: Previous Post
+next_post: Next Post
