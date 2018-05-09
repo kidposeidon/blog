@@ -4,7 +4,7 @@
 
 > 简洁清爽大气的Hexo主题
 
-> A simple and cool hexo theme 
+> A simple and cool hexo theme
 
 ![](https://cloud.githubusercontent.com/assets/14028075/23535689/eb98ba1a-fffa-11e6-9293-180c7b4d276c.JPG)
 
@@ -21,7 +21,7 @@
 
 ## Installation
 ```
-//Init blog folder 
+//Init blog folder
 $ hexo init blog
 $ cd blog && npm install
 
@@ -103,7 +103,7 @@ ga: UA-92791318-1
 ## v1.0
 ### v1.0.0 - Sep 28, 2016
  - Init theme, now it can be used properly.
- 
+
 ### v1.0.1 - Nov 15, 2016
  - Improve the style and effect in cellphone.
 

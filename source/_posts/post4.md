@@ -1,6 +1,8 @@
-title: "My Fourth Blog: Why is Cobalt used in batteries?"
 ---
-  Cobalt's function is to provide the battery with a good cycling ability,
+title: "My Fourth Blog: Why is Cobalt used in batteries?"
+date: April 4, 2018
+---
+Cobalt's function is to provide the battery with a good cycling ability,
 because of its tight molecular structure that it has in the cathode.
 Nickel is being more commonly used throughout the world because of a shortage
 on cobalt. The common belief is that the more nickel is used in a cathode,
@@ -9,13 +11,13 @@ nickel is used in the cathode, the overall voltage decreases. Many researchers
 are trying to find a cathode with zero cobalt composition, but cobalt must
 be used to counteract the effects of nickel.
 
-  Many batteries are using a "333" composition. This represents 1/3 nickel, 1/3
-  cobalt, and 1/3 manganese. The industry is trying to optimize safety, power,
-   performance and price by moving towards compositions like 523, 622, & 811.
+Many batteries are using a "333" composition. This represents 1/3 nickel, 1/3
+cobalt, and 1/3 manganese. The industry is trying to optimize safety, power,
+performance and price by moving towards compositions like 523, 622, & 811.
 (The first digit representing nickel, second cobalt, and third as
- manganese.) The furthest scientists have gotten is at least 10% cobalt, which
- means that it is still required but less is needed, hopefully improving the
- world's amount of cobalt.
+manganese.) The furthest scientists have gotten is at least 10% cobalt, which
+means that it is still required but less is needed, hopefully improving the
+world's amount of cobalt.
 
 
 
